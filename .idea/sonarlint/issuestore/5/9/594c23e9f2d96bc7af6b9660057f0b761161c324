@@ -1,0 +1,16 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÚæÌëøÿÿÿÿ8÷¨Â¹š/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(å§¯½ûÿÿÿÿ8©©ëùš/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½ş¥§8ÉòÉ¹š/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(á•šá8‰Ñ»Ö˜/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›ü¨‹ùÿÿÿÿ8È˜ÏÖ˜/
+V
+java:S3516("9Refactor this method to not always return the same value.(Â‘ê»8Â¥Ãâš/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ıß‚Óÿÿÿÿÿ8•‹Ô¹š/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ÇÏÓåûÿÿÿÿ8’Àâš/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ÙÊ”À8¬”¼âš/
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(ÌÖ·ªşÿÿÿÿ8¿Öûâš/
+T	java:S106Q"9Replace this use of System.out or System.err by a logger.(˜ĞÍ8­Îùâš/
+I
+java:S1068",Remove this unused "myNumber" private field.(Ä›÷•8¶¯¡Ö˜/

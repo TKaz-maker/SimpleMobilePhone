@@ -1,0 +1,31 @@
+
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(Âğ™ûÿÿÿÿ8˜¨ôøš/
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(ê¾—8ÂÌ€ùš/
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(ì÷ã¦ıÿÿÿÿ8İçùš/
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(®¾»û8ÿñƒøš/
+€
+java:S1192C"^Define a constant instead of duplicating this literal "Enter existing contact name: " 3 times.(ì÷ã¦ıÿÿÿÿ8İçùš/
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(°¶§8ç´Ğâš/
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ì÷ã¦ıÿÿÿÿ8Š‘­øš/
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(äÉ´ä8Šşøš/
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(«¦ÎÍ8ÉïÍâš/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(â‰§©8¼çãâš/
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(„®·Ûüÿÿÿÿ8İçùš/
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(ì÷ã¦ıÿÿÿÿ8Â—ûøš/
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(ÀØì¹8ä¢Æøš/
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(ıíáûÿÿÿÿ8Ü¿ƒùš/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôèÆşûÿÿÿÿ8›ßâš/
+T	java:S106v"9Replace this use of System.out or System.err by a logger.(éúÃ8„ØÒâš/
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(ë“¢•üÿÿÿÿ8óØÏøš/
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(ì¨Ñùÿÿÿÿ8äç÷øš/
+u
+java:S1192G"SDefine a constant instead of duplicating this literal "Contact not found." 3 times.(„®·Ûüÿÿÿÿ8İçùš/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(–Ûıá8‹¸¬ùš/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(²ı…Çùÿÿÿÿ8‚‹Šøš/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(„®·Ûüÿÿÿÿ8¿ÇÃøš/
+N
+java:S11441"2Remove this unused private "printContacts" method.(§Şà<8ä³ùš/
+T	java:S106>"9Replace this use of System.out or System.err by a logger.(ÜÊ¯W8ˆú¡øš/
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ûê²éøÿÿÿÿ8Ï’ øš/
+U	java:S106}"9Replace this use of System.out or System.err by a logger.(ôÅêœ8µÚİâš/
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(„®·Ûüÿÿÿÿ8Â—ûøš/
